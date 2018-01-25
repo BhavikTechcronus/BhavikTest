@@ -14,8 +14,8 @@
  #DEFAULT db connection settings
  # --- WARNING! --- if you set defaults - it's recommended to set $ACCESS_PWD to protect your db!
  $DBDEF=array(
- 'user'=>"Bhavik",#required
- 'pwd'=>"Bhavik", #required
+ 'user'=>"",#required
+ 'pwd'=>"", #required
  'db'=>"",  #optional, default DB
  'host'=>"",#optional
  'port'=>"",#optional
